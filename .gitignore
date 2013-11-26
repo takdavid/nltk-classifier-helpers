@@ -1,4 +1,6 @@
 *.py[cod]
+*.pkl
+testdata.DecisionTreeClassifiers.py
 
 # C extensions
 *.so
